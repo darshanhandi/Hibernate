@@ -37,7 +37,7 @@ The system uses a MySQL database named `hotel_db` with a table `reservations`. T
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/darshanhandi/JDBC-HotelReservationSystem.git
+   git clone https://github.com/darshanhandi/JDBC-HotelManagmentSystem.git
    cd HotelReservationSystem
    ```
 
